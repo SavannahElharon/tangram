@@ -3,7 +3,13 @@ guid: cfc0d307e344d42a894d3fdd8f9eb077
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - BackgroundMusic: {fileID: 8300000, guid: a2d6a8f0f827a324fb7f32b1701dd5c3, type: 3}
+  - Click: {fileID: 8300000, guid: 26d8eafc123874939bfffbcd2c479b9a, type: 3}
+  - Bump: {fileID: 8300000, guid: de4685ed4007b4c498967e586ab05db1, type: 3}
+  - RotateSound: {fileID: 8300000, guid: 051474633d2320c4d9b8967edcefa396, type: 3}
+  - Pop: {fileID: 8300000, guid: e541841532a354ec5a972a5ceb5b7026, type: 3}
+  - Win: {fileID: 8300000, guid: 8396d0a6216338d4e90ec55e9ab59f9a, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
